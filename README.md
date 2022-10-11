@@ -9,6 +9,6 @@
 - Silahkan Melakukan Fork pada Repo ini
 - Add Harapan kamu di file *Harapan.txt*
 - Silahkan Melakukan Pull Request
-- Salam Hacktober2022
+- Salam <b>Hacktober2022</b>
 ##
 
